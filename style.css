@@ -119,6 +119,7 @@ body::before {
 	height: auto;
 	display: block;
 	margin: 0 auto;
+	margin-bottom: 5px;
 }
 
 .home-image {
@@ -132,8 +133,8 @@ body::before {
 .text-format {
 	color: white;
 	font-size: 30px;
-	font-family: Poppins;
-	font-weight: 1000;
+	font-family: 'Poppins';
+	font-weight: 850;
 }
 
 a {
@@ -151,5 +152,6 @@ a {
 	}
 
 }
+
 
 
