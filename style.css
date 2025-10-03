@@ -1,5 +1,12 @@
+@font-face {
+	font-family: 'Poppins';
+	src: url('Poppins/Poppins-Regular.tff') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+	
 body {
-	font-family: Poppins;
+	font-family: 'Poppins';
 	text-align: center;
 	margin: 0;
 	padding: 50px;
@@ -43,7 +50,7 @@ body::before {
 .nav-btn {
 	background: linear-gradient(to right, #a11e00, #f09819);
 	color: white;
-	font-family: Poppins;
+	font-family: 'Poppins';
 	width: 400px;
 	height: 65px;
 	padding: 15px 40px;
@@ -142,4 +149,5 @@ a {
 	.nav-btn {
 		width: 100%;
 	}
+
 }
