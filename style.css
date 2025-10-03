@@ -6,7 +6,7 @@
 }
 	
 body {
-	font-family: 'Poppins';
+	font-family: 'Poppins', sans-serif; 
 	text-align: center;
 	margin: 0;
 	padding: 50px;
@@ -50,7 +50,7 @@ body::before {
 .nav-btn {
 	background: linear-gradient(to right, #a11e00, #f09819);
 	color: white;
-	font-family: 'Poppins';
+	font-family: 'Poppins', sans-serif;
 	width: 400px;
 	height: 65px;
 	padding: 15px 40px;
@@ -151,3 +151,4 @@ a {
 	}
 
 }
+
