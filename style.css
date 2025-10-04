@@ -70,10 +70,10 @@ body::before {
 	transition: transform 0.2s, box-shadow 0.2s;
 	justify-content: center;
 	text-shadow:
-		-1px -1px 2px black,
-		1px -1px 2px black,
-		-1px 1px 2px black,
-		1px 1px 2px black;
+		-1px -1px 5px black,
+		1px -1px 5px black,
+		-1px 1px 5px black,
+		1px 1px 5px black;
 }
 
 .nav-btn:hover {
@@ -155,10 +155,10 @@ body::before {
 	font-weight: 700;
 	margin-top: 5px;
 	text-shadow:
-		-1px -1px 2px black,
-		1px -1px 2px black,
-		-1px 1px 2px black,
-		1px 1px 2px black;
+		-1px -1px 5px black,
+		1px -1px 5px black,
+		-1px 1px 5px black,
+		1px 1px 5px black;
 }
 
 a {
@@ -176,6 +176,7 @@ a {
 	}
 
 }
+
 
 
 
