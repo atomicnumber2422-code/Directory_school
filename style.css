@@ -33,7 +33,7 @@ body {
 	margin: 0;
 	padding: 50px;
 	background: url("resources/Bg_photo.png") no-repeat center center fixed;
-	background-size: 100%, 100%;
+	background-size: 100% 100%;
 	position: relative;
 	color: #333;
 }
@@ -183,6 +183,7 @@ a {
 	}
 
 }
+
 
 
 
